@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473321019145",
+    "firebase_url": "https://get-best-services-49411-default-rtdb.firebaseio.com",
+    "project_id": "get-best-services-49411",
+    "storage_bucket": "get-best-services-49411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473321019145:android:ba4105f756fb4c3ef125d8",
+        "android_client_info": {
+          "package_name": "com.getbestservices.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473321019145-c3oja83bejetl5fsvmhl2q9hq9i3pqi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsca5OAUZ0Y6o8kmkqswrYdsr1d0M7CNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473321019145-c3oja83bejetl5fsvmhl2q9hq9i3pqi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
